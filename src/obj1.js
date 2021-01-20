@@ -6,6 +6,6 @@ export default class Obj1 {
     return this._name;
   }
   static get oneThird() {
-    return 3.0 / 1.0;
+    return 1.0 / 3.0;
   }
 }
