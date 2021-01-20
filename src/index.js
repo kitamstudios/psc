@@ -1,6 +1,6 @@
-import Cat from "./cat.js";
-import Dog from "./dog.ts";
+import Obj2 from "./obj2.js";
+import Obj1 from "./obj1.js";
 
-export default { Dog, Cat };
+export default { Obj1, Obj2 };
 
 console.log("Hello world from the bundle!");

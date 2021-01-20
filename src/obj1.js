@@ -1,8 +1,6 @@
-export default class Dog {
-  _name: String;
-
+export default class Obj1 {
   constructor() {
-    this._name = "Dog";
+    this._name = "Obj1";
   }
   get name() {
     return this._name;
